@@ -1,0 +1,15 @@
+{
+  "name": "wordpress-xml-download",
+  "version": "1.0.0",
+  "description": "Only image exports.\r Please put the output from WordPress as \"input.xml\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prem Raghvani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "xml-js": "^1.6.11"
+  }
+}
