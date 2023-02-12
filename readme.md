@@ -1,6 +1,6 @@
 Using: NodeJS v18.12.1
 
-Please use "npm i axios" and "npm i xml-js"
+If you have npm, use "npm i" to install the required packages.
 
 Only media exports.
 Please put the output from WordPress as "input.xml"
