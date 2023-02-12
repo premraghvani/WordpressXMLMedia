@@ -1,7 +1,7 @@
 {
   "name": "wordpress-xml-download",
   "version": "1.0.0",
-  "description": "Only image exports.\r Please put the output from WordPress as \"input.xml\"",
+  "description": "Takes XML list from WordPress and downloads content",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
